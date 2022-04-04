@@ -9,7 +9,7 @@
 }
 body{
     height: 100vh;
-    background-image: url(01.jpg),  url(3.jpg);
+    background-image: url(11.png),  url(3.jpg);
     background-repeat: repeat-y;
     display: flex;
     justify-content: center;
